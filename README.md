@@ -11,7 +11,7 @@
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws,go,express,mysql&perline=7)](https://skillicons.dev)
 
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanadesisido)](https://github.com/KanadeSisido?tab=repositories)
