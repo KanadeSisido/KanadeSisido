@@ -2,6 +2,14 @@
 🖊️Tokyo Metropolitan University<br/>
 ⌨️Faculty of Systems Design<br/>
 
+## Websites
+|Name|URL|
+|----|----|
+|Home Page |[www.yzuemx.com](https://www.yzuemx.com)|
+|Portfolio Site|[works.yzuemx.com](https://works.yzuemx.com)|
+|Blog|[blog.kanade.sisido.dev](https://blog.kanade.sisido.dev)|
+
+
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws&perline=5)](https://skillicons.dev)
 
