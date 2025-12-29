@@ -7,9 +7,11 @@
 |----|----|
 |Home Page |[www.yzuemx.com](https://www.yzuemx.com)|
 |Portfolio Site|[works.yzuemx.com](https://works.yzuemx.com)|
-|Blog|[blog.kanade.sisido.dev](https://blog.kanade.sisido.dev)|
+|Robocon-Club TEXNITIS|[robocon.texnitis-official.workers.dev](https://robocon.texnitis-official.workers.dev/)|
 |HTML+CSS Tutorial|https://kanadesisido.github.io/welcome-gdgoc-2025/site/01/index.html|
 |GDGoC TMU Unity Support Site|https://gdsc-tmu.github.io/event5-unity/|
+|TMU Creators EXPO Official|https://gdsc-tmu.github.io/tmu-creators-expo/|
+
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws,go,express,mysql&perline=7)](https://skillicons.dev)
