@@ -12,6 +12,13 @@
 |GDGoC TMU Unity Support Site|https://gdsc-tmu.github.io/event5-unity/|
 |TMU Creators EXPO Official|https://gdsc-tmu.github.io/tmu-creators-expo/|
 
+# Message
+Riku Takayasuと申します。
+私は「技術で日常の仕組みを面白くする」ことを目標に、現在はGoを用いたWebバックエンド開発を主軸に活動しています。
+
+私の強みは、ロボコンでの画像処理やLinux上での環境構築を通じて培った低レイヤーの知見を開発環境の改良、サービスの信頼性向上に転用できる点です。また「ただ動くものを作る」のではない、その成果物がユーザにもたらす効果を常に意識する、ユーザ視点ドリブンの開発を信条としています。
+
+また、自身の学びをコミュニティに還元するため、技術コミュニティでの登壇やイベント運営にも注力しております。技術交流による価値創造と技術の深堀りを反復することで、プロダクトと組織に貢献できるエンジニアを目指しています。
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws,go,express,mysql&perline=7)](https://skillicons.dev)
