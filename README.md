@@ -16,52 +16,16 @@
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws,go,express,mysql&perline=7)](https://skillicons.dev)
 
-
-## Backend
-
-- **Go**
-    - **Gin，Gorm，wire，gomock**
-    - **Clean Archtecture, Dependency Injection，Table-Driven Test，Golden Test**
-- **Node.js**
-    - **Express.js**，Prisma
-- PHP
-    - Laravel
-    - フレームワークを使わないAPI作成
-- **Python**
-    - FastAPI，Flask
-- Google Apps Script
-
-## Frontend
-
-- Next.js
-    - React, tailwindCSS, Shadcn/ui, MatirialUI
-- TypeScript
-- Vue
-    - Vuetify
-
-## Infra / Middleware
-
-- MySQL / mariaDB
-- PostgreSQL
-- Redis
-- Firebase
-    - Firebase Auth
-    - Firebase Realtime Database
-    - Firebase Studio
-    - Firebase Firestore
-- Azure
-- AWS
-    - EC2
-    - S3
-    - Cloudfront
-- Cloudflare
-    - Workers
-    - Tunnel
-    - R2
-- Docker
-    - Docker Compose
-- Nginx
-
+<br><br><br>
+A____A <br>
+|・ㅅ・|<br>
+|っ　ｃ|<br>
+|　　　|<br>
+|　　　|<br>
+|　　　|<br>
+|　　　|<br>
+|　　　|<br>
+ U￣￣U<br>
 
 <!---
 KanadeSisido/KanadeSisido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
