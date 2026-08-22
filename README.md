@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws,go,express,mysql&perline=7)](https://skillicons.dev)
 
 # A long Cat
-<br><br><br>
+<br>
 A____A <br>
 |・ㅅ・|<br>
 |っ　ｃ|<br>
