@@ -14,7 +14,7 @@
 |ame:ato|https://ameato.sisido.dev|
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,vim,tailwind,react,php,nextjs,materialui,firebase,aws,go,express,mysql&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,aws,azure,bash,blender,c,cpp,cloudflare,cmake,css,dart,debian,django,docker,elasticsearch,express,figma,firebase,flask,git,github,gitlab,go,html,js,laravel,latex,linux,md,materialui,mysql,nextjs,nginx,nodejs,opencv,php,pnpm,postgres,py,pytorch,react,redis,ros,sass,sqlite,tailwind,ts,ubuntu,vim,vite,vue&perline=14)](https://skillicons.dev)
 
 # A long Cat
 <br>
