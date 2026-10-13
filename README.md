@@ -13,6 +13,15 @@
 |TMU Creators EXPO Official|https://gdsc-tmu.github.io/tmu-creators-expo/|
 |ame:ato|https://ameato.sisido.dev|
 
+# History
+- ピクシブ株式会社 インターン
+  - Webバックエンド/フロントエンド
+- ロボット系ベンチャー アルバイト(エンジニア)
+- ゲーム系 エンジニア
+  - Webフロントエンド/バックエンド
+- Google Developer Groups
+  - GDGoC Japan Hackathon 東京会場 Onsite-Lead
+
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=astro,aws,azure,bash,blender,c,cpp,cloudflare,cmake,css,dart,debian,django,docker,elasticsearch,express,figma,firebase,flask,git,github,gitlab,go,html,js,laravel,latex,linux,md,materialui,mysql,nextjs,nginx,nodejs,opencv,php,pnpm,postgres,py,pytorch,react,redis,ros,sass,sqlite,tailwind,ts,ubuntu,vim,vite,vue&perline=14)](https://skillicons.dev)
 
